@@ -1,0 +1,38 @@
+body{
+  background-color: #7d5a5a;
+  border: solid black 3px;
+  text-align: center;
+  color: #fff;
+}
+.first-container{
+  background-color: #f8f3eb;
+  height: 500px;
+  width: 1300px;
+  margin: auto;
+  margin-top: 90px;
+  text-align: center;
+  border: solid black 3px;
+}
+.middle-container{
+      width: 50%;
+      height: 30%;
+      margin: 0 auto;
+      position: relative;
+      background-color: #fff;
+      border: solid black 3px;
+}
+.image{
+  height: 300px;
+  width: 300px;
+}
+.vinay{
+  position: relative;
+  right: 344px;
+}
+.sumit{
+  position: relative;
+  left: 344px;
+}
+.heading{
+  padding-top: 20px;
+}
